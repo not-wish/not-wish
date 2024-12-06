@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 🎓 I am currently studying computer science
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=not-wish&layout=compact">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-wish&layout=compact" />
+</div>
