@@ -3,4 +3,4 @@
 
 
 ## 🌐 Socials
-[LinkedIn](https://linkedin.com/in/vishesh-agarwal-3a70a130b) <br>
+[LinkedIn](https://linkedin.com/in/vishesh-agarwal-3a70a130b) <br> [Leetcode](https://leetcode.com/u/notwish/) <br>
